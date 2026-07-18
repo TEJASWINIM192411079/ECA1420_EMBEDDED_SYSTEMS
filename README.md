@@ -1,0 +1,2 @@
+# ECA1420_EMBEDDED_SYSTEMS
+Lab experiments - SLOT B
